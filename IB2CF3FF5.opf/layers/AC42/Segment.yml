@@ -1,0 +1,100 @@
+id: f98caf072648423b82239426a3ea5f58
+annotation_type: Segment
+revision: '00001'
+annotations:
+  eb38924306084f97badc22080790e786:
+    span:
+      start: 0
+      end: 50
+  6b56769514b049838698e1b0a5af8eae:
+    span:
+      start: 52
+      end: 84
+  797da61275f74b9ea1f404eb597aa075:
+    span:
+      start: 86
+      end: 221
+  36eeb9781894447787274784ae80f573:
+    span:
+      start: 223
+      end: 272
+  7b819f4160534af7bc7ac03deb0462b6:
+    span:
+      start: 274
+      end: 386
+  c8b61be660684c0b93cd35ba8fe56304:
+    span:
+      start: 388
+      end: 399
+  b921cb86265845989059a04822fbf21d:
+    span:
+      start: 401
+      end: 504
+  839aaac995a24948a406ac96da1dab53:
+    span:
+      start: 506
+      end: 536
+  251be30f0bc54255867ace8aa2a85691:
+    span:
+      start: 538
+      end: 654
+  ab365f03f8d04a3490f5934d396feb2d:
+    span:
+      start: 656
+      end: 755
+  068db210be204234ba302b46a8f29fc9:
+    span:
+      start: 757
+      end: 787
+  6ac26f9cfbc246f1b49a1ad41a01827a:
+    span:
+      start: 789
+      end: 908
+  5c99170624634cd89b59b8dac38a0b1e:
+    span:
+      start: 910
+      end: 1011
+  1143b2cc00ed4fa7a10313d87ac14fa8:
+    span:
+      start: 1013
+      end: 1046
+  9b3b7732f6b34ebc95808620f40750c1:
+    span:
+      start: 1048
+      end: 1169
+  301ba3f1206f48c088fa8d46063f2728:
+    span:
+      start: 1171
+      end: 1269
+  bfad42f12ce345fb89e03c288ac6f3b5:
+    span:
+      start: 1271
+      end: 1297
+  f6d924a1d0bb4693a6606edda8d20c55:
+    span:
+      start: 1299
+      end: 1419
+  8d3cc7168ccc42da81eb6dfbd3418788:
+    span:
+      start: 1421
+      end: 1530
+  3185e0517ae34e70b7b0dac2b9b4cd5e:
+    span:
+      start: 1532
+      end: 1599
+  2956e1df5ee04a37b2780cac2c43b0bd:
+    span:
+      start: 1601
+      end: 1673
+  0de2df13df5b434f80be9d1bf563f252:
+    span:
+      start: 1675
+      end: 1788
+  4c091749a5c844ca9d818430d55fbf13:
+    span:
+      start: 1790
+      end: 1823
+  b164121a46c2434090169b10ec930961:
+    span:
+      start: 1825
+      end: 1965
